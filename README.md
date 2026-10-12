@@ -17,8 +17,8 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 ## Official Links
 - [Module Declarations](https://docs.oracle.com/javase/specs/jls/se9/html/jls-7.html#jls-7.7) - Java Language Specification for Modules
-- [Project Jigsaw](https://openjdk.java.net/projects/jigsaw) - Lists primary goals + _Key documents, presentations, & other resources_
-- [Module System Quick-Start Guide](https://openjdk.java.net/projects/jigsaw/quick-start) - Provides a few simple examples to get developers started with modules
+- [Project Jigsaw](https://openjdk.org/projects/jigsaw) - Lists primary goals + _Key documents, presentations, & other resources_
+- [Module System Quick-Start Guide](https://openjdk.org/projects/jigsaw/quick-start) - Provides a few simple examples to get developers started with modules
 - [JEP 511: Module Import Declarations](https://openjdk.org/jeps/511) - ... the ability to succinctly import all of the packages exported by a module
 
 
