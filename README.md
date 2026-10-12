@@ -61,5 +61,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 
 ## Tools
+- [pro](https://github.com/forax/pro) - A Java build tool that works seamlessly with modules
+- [Jenesis](https://jenesis.build) - A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought
 - [Netflix Java Module System development tool](https://github.com/Netflix/ja) - Java module descriptor as the source of truth throughout development
 - [Java Module Dependencies Gradle plugin](https://github.com/gradlex-org/java-module-dependencies) - Java modules as first-class dependencies for Gradle-based builds
