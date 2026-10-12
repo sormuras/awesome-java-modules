@@ -12,6 +12,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Talks](#talks)
 - [Literature](#literature)
 - [Courses](#courses)
+- [Tools](#tools)
 
 
 ## Official Links
@@ -28,6 +29,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Code-First Java Module System Tutorial](https://blog.codefx.org/java/java-module-system-tutorial/)
 - [Modules vs. Microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
 - [Java Modules Cheat Sheet](https://github.com/tfesenko/Java-Modules-JPMS-CheatSheet)
+
 
 ### Advanced
 - [Automatic-Module-Name: Calling all Java Library Maintainers](http://branchandbound.net/blog/java/2017/12/automatic-module-name/)
@@ -57,3 +59,8 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 ## Courses
 - [Java 9 Modularity: First Look](https://www.pluralsight.com/courses/java-9-modularity-first-look) (Sander Mak; Pluralsight (subscription needed)
+
+
+## Tools
+- [Netflix Java Module System development tool](https://github.com/Netflix/ja) - Java module descriptor as the source of truth throughout development
+- [Java Module Dependencies Gradle plugin](https://github.com/gradlex-org/java-module-dependencies) - Java modules as first-class dependencies for Gradle-based builds
